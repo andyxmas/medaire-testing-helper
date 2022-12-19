@@ -1,0 +1,24 @@
+{
+  "name": "meedaire-testing-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyxmas/medaire-testing-helper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyxmas/medaire-testing-helper/issues"
+  },
+  "homepage": "https://github.com/andyxmas/medaire-testing-helper#readme",
+  "dependencies": {
+    "netlify": "^13.1.0",
+    "netlify-cli": "^12.4.0",
+    "shopify-api-node": "^3.11.3"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "uploaded_at": 1667397011000,
+  "type": "new_business_quote",
+  "app_quote_id": 47,
+  "central_quote_id": 1660651225787,
+  "version_number": 1,
+  "price": "8.11",
+  "compare_at_price": "9.99",
+  "items_count": 4,
+  "items": [
+    {
+      "uid": 3450881985922316841,
+      "pack": "FluidsPAC",
+      "sub_pack": "CathPAC",
+      "variant_id": 42434495742205,
+      "handle": "urine-collection-bag-with-tap-2l",
+      "name": "Urine Collection Bag with Tap 2L",
+      "quantity": 1,
+      "price": "2.43",
+      "discount": "0.4",
+      "central_quote_line_id": "1660651225787"
+    },
+    {
+      "uid": 1844869312004592593,
+      "pack": "FluidsPAC",
+      "sub_pack": "CathPAC",
+      "variant_id": 42434487288061,
+      "handle": "gloves-sterile-surgical-size-8-pair",
+      "name": "Gloves Sterile Surgical size 8 (pair)",
+      "quantity": 1,
+      "price": "2.56",
+      "discount": "0.5",
+      "central_quote_line_id": "1660651225788"
+    },
+    {
+      "uid": 210157962259557060,
+      "pack": "FluidsPAC",
+      "sub_pack": "CathPAC",
+      "variant_id": 42434495676669,
+      "handle": "urinary-catheter-foley-10fr",
+      "name": "Urinary Catheter-Foley 10Fr",
+      "quantity": 2,
+      "price": "3.45",
+      "discount": "0.6"
+    }
+  ],
+  "compliance_period": null,
+  "total_discount": "136.3"
+}

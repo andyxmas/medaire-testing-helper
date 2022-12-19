@@ -1,0 +1,37 @@
+{
+  "uploaded_at": 1654753617900,
+  "app_quote_id": 275,
+  "items": [
+    {
+      "uid": 4340267348960683417,
+      "pack": "CrashPAC 1",
+      "sub_pack": "<Loose>",
+      "variant_id": 42434482635005,
+      "handle": "crashpac",
+      "name": "CrashPAC",
+      "quantity": 1,
+      "price": "135"
+    },
+    {
+      "uid": 1506341771198969481,
+      "pack": "CrashPAC 1",
+      "sub_pack": "<Loose>",
+      "variant_id": 42434495217917,
+      "handle": "tourniquet-cat",
+      "name": "Tourniquet CAT",
+      "quantity": 1,
+      "price": "32.54"
+    },
+    {
+      "uid": 1096367175331474968,
+      "pack": "CrashPAC 2",
+      "sub_pack": "<Loose>",
+      "variant_id": 42434495217917,
+      "handle": "tourniquet-cat",
+      "name": "Tourniquet CAT",
+      "quantity": 1,
+      "price": "32.54"
+    }
+  ],
+  "compliance_period": null
+}
