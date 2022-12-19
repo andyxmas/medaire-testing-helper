@@ -15,7 +15,9 @@ const handler = async (event) => {
     });
 
 
-    const json = require(`./json/${jsonKey}.json`)
+    const nbq = require(`./json/nbq.json`)
+    const resupply = require(`./json/resupply.json`)
+    const json = jsonKey == 'nbq' ? nbq : resupply
     const jsonString = JSON.stringify(json);
     const userId = 6577333993725
 
